@@ -17,8 +17,8 @@
         "orderRefDate": "2022-01-01",
         "storeCode": "STR001",
         "storeName": "TB MAJU JAYA",
-        "brand": "sudirman",
-        "salesmanName": "Rucika",
+        "brand": "maluku",
+        "salesmanName": "Jdabesmen",
         "syncStatus": "Failed"
     },
     {
@@ -29,7 +29,7 @@
       "storeCode": "STR001",
       "storeName": "TB MAJU JAYA",
       "brand": "sudirman",
-      "salesmanName": "Rucika",
+      "salesmanName": "RoyalBoard",
       "syncStatus": "Success"
     },
     {
@@ -39,8 +39,8 @@
         "orderRefDate": "2022-01-01",
         "storeCode": "STR001",
         "storeName": "TB MAJU JAYA",
-        "brand": "sudirman",
-        "salesmanName": "Rucika",
+        "brand": "Jakarta",
+        "salesmanName": "Granito",
         "syncStatus": "Failed"
     },
     {
@@ -50,7 +50,7 @@
         "orderRefDate": "2022-01-01",
         "storeCode": "STR001",
         "storeName": "TB MAJU JAYA",
-        "brand": "sudirman",
+        "brand": "Jawa Timur",
         "salesmanName": "Rucika",
         "syncStatus": "Success"
     },
@@ -61,8 +61,8 @@
       "orderRefDate": "2022-01-01",
       "storeCode": "STR001",
       "storeName": "TB MAJU JAYA",
-      "brand": "sudirman",
-      "salesmanName": "Rucika",
+      "brand": "Banten",
+      "salesmanName": "Djabesmen",
       "syncStatus": "Failed"
     },
     {
@@ -83,7 +83,7 @@
         "orderRefDate": "2022-01-01",
         "storeCode": "STR001",
         "storeName": "TB MAJU JAYA",
-        "brand": "sudirman",
+        "brand": "Bekasi",
         "salesmanName": "Rucika",
         "syncStatus": "Failed"
     },
