@@ -1,0 +1,135 @@
+{"users": [
+    {
+        "id": 1,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Success"
+    },
+    {
+        "id": 2,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Failed"
+    },
+    {
+        "id": 3,
+      "orderRef": "SO-011",
+      "orderDate": "2022-01-01",
+      "orderRefDate": "2022-01-01",
+      "storeCode": "STR001",
+      "storeName": "TB MAJU JAYA",
+      "brand": "sudirman",
+      "salesmanName": "Rucika",
+      "syncStatus": "Success"
+    },
+    {
+        "id": 4,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Failed"
+    },
+    {
+        "id": 5,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Success"
+    },
+    {
+        "id": 6,
+      "orderRef": "SO-011",
+      "orderDate": "2022-01-01",
+      "orderRefDate": "2022-01-01",
+      "storeCode": "STR001",
+      "storeName": "TB MAJU JAYA",
+      "brand": "sudirman",
+      "salesmanName": "Rucika",
+      "syncStatus": "Failed"
+    },
+    {
+        "id": 7,
+      "orderRef": "SO-011",
+      "orderDate": "2022-01-01",
+      "orderRefDate": "2022-01-01",
+      "storeCode": "STR001",
+      "storeName": "TB MAJU JAYA",
+      "brand": "sudirman",
+      "salesmanName": "Rucika",
+      "syncStatus": "Success"
+    },
+    {
+        "id":8,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Failed"
+    },
+    {
+        "id": 9,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Success"
+    },
+    {
+        "id": 10,
+        "orderRef": "SO-011",
+        "orderDate": "2022-01-01",
+        "orderRefDate": "2022-01-01",
+        "storeCode": "STR001",
+        "storeName": "TB MAJU JAYA",
+        "brand": "sudirman",
+        "salesmanName": "Rucika",
+        "syncStatus": "Failed"
+    },
+    {
+      "id": 11,
+      "orderRef": "SO-011",
+      "orderDate": "2022-01-01",
+      "orderRefDate": "2022-01-01",
+      "storeCode": "STR001",
+      "storeName": "TB MAJU JAYA",
+      "brand": "sudirman",
+      "salesmanName": "Rucika",
+      "syncStatus": "Failed"
+    },
+    {
+      "id": 12,
+      "orderRef": "SO-012",
+      "orderDate": "2022-01-01",
+      "orderRefDate": "2022-01-01",
+      "storeCode": "STR001",
+      "storeName": "TB MAJU JAYA",
+      "brand": "sudirman",
+      "salesmanName": "Rucika",
+      "syncStatus": "Success"
+    }
+
+]}
