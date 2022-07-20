@@ -17,7 +17,8 @@
       "runtime": "127",
       "genres": ["Crime", "Drama", "Music"],
       "plot": "The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/film-strip-background-with-clapper-board_1017-33456.jpg?t=st=1658301719~exp=1658302319~hmac=1c2b1acc59f450fff4ca647a7a2d2accd9006caf65096ad397c9574b899fcd81&w=2000"
     },
     {
       "id": 3,
@@ -26,7 +27,8 @@
       "runtime": "142",
       "genres": ["Crime", "Drama"],
       "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/film-movie-projector-made-golden-particle-sparkle-style_1017-38173.jpg?t=st=1658302234~exp=1658302834~hmac=71e5f9051e8bddb30fddadebef20fa956ff15d6bc6cc043816b92e032608ff78&w=2000"
     },
     {
       "id": 4,
@@ -35,7 +37,8 @@
       "runtime": "97",
       "genres": ["Adventure", "Comedy"],
       "plot": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/premium-vector/movie-film-banner-design-template-cinema-concept-with-popcorn-filmstrip-film-clapper_41737-249.jpg?w=1800"
     },
     {
       "id": 5,
@@ -44,7 +47,8 @@
       "runtime": "121",
       "genres": ["Drama", "History", "Thriller"],
       "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
-      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg"
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/online-movies-entertainment-banner_1419-2246.jpg?t=st=1658302329~exp=1658302929~hmac=6ccf9f09d4703d87579e1895a712300dc4cadc96660e0d71d5dd81c3f37f9eb6&w=1800"
     },
     {
       "id": 6,
@@ -53,7 +57,8 @@
       "runtime": "144",
       "genres": ["Adventure", "Drama", "Sci-Fi"],
       "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/realistic-film-strip-with-popcorn-movie-ticket_1017-38430.jpg?t=st=1658302354~exp=1658302954~hmac=362552694d0b077af39059f7dbd5d1858c7e90afc349855ddc74e850af669256&w=2000"
     },
     {
       "id": 7,
@@ -62,7 +67,8 @@
       "runtime": "129",
       "genres": ["Crime", "Drama"],
       "plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
-      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX300.jpg"
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/cinema-movie-film-strip-vibrant-background_1017-33457.jpg?t=st=1658302431~exp=1658303031~hmac=0ec3e5ecf7cfa786816ce10fe5cab542a8d887989bb923da97d927a9fc2a3245&w=2000"
     },
     {
       "id": 8,
@@ -71,7 +77,8 @@
       "runtime": "187",
       "genres": ["Crime", "Drama", "Mystery"],
       "plot": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/premium-vector/now-showing-movie-cinema-poster-banner-background_7102-277.jpg?w=1800"
     },
     {
       "id": 9,
@@ -80,7 +87,8 @@
       "runtime": "123",
       "genres": ["Drama", "Mystery"],
       "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
-      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_SX300.jpg"
+      "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/realistic-golden-film-strip-cinema-background-vector-illustration_1017-38172.jpg?t=st=1658302521~exp=1658303121~hmac=a11c31ea4820fca6cfb884988f805eacb2a01da9870e082ec2593349486471a6&w=2000"
     },
     {
       "id": 10,
@@ -89,7 +97,8 @@
       "runtime": "130",
       "genres": ["Biography", "Comedy", "Drama"],
       "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+      "banner": "https://img.freepik.com/free-vector/film-strp-3d-background-with-roll-projector_1017-36680.jpg?t=st=1658302546~exp=1658303146~hmac=1359dedabc6cfbd80762dd381c221b9853f7a3f4009b6f955e3089bc838b1c31&w=2000"
     }
   ]
 }
