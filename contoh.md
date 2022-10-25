@@ -12,12 +12,10 @@ Nettrace uses [Codeigniter](https://codeigniter.com/user_guide/intro/index.html)
 
 ## Prerequisites
 
-| Prerequisites                                             | Description                                        |
-| --------------------------------------------------------- | -------------------------------------------------- |
-| [PHP 7.3](http://php.net/manual/en/intl.requirements.php) | for codeigniter                                    |
-| MySQL                                                     | for main database, but you can also use SQL Server |
-| Apache2 Server                                            | for the web server                                 |
-| Codeigniter 4                                             | for the development environment                    |
+|              |        |
+| ------------ | ------ |
+| **Bold Key** | Value1 |
+| Normal Key   | Value2 |
 
 PHP version 7.3 or higher is required, with the following extensions installed:
 
