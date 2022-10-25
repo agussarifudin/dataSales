@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://dbo.id/wp-content/uploads/2019/07/dbo-logo.png" />
+  <img src="https://drive.google.com/uc?id=1HITjoRu0Yena0phoKnyUU0CmlxR3yCQl" />
 </p>
 
 <h1 align="center">Nettrace (CI4)</h1>
